@@ -5,7 +5,7 @@ about:
   head: 3c4e0cf
   archived: false
   latestVersion: "v0.10.0"
-  collectedAt: 2026-09-07T05:04:43Z
+  collectedAt: 2026-09-07T19:20:31Z
 timeline:
   created: 2018-02-10
   lastCommit: 2026-06-21
@@ -82,7 +82,7 @@ total:
   commit: 129
 ---
 path: /home/runner/.x-repo/github.com/slok/kube-code-generator
-collectedAt: 2026-09-07T05:04:45Z
+collectedAt: 2026-09-07T19:20:32Z
 loc:
   Go:
     code: 1847
@@ -218,7 +218,7 @@ checks:
       - 'Warn: 0 commits out of 21 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:04:45+00:00
+  collectedAt: 2026-09-07T19:20:33+00:00
   platform:
     darwin/arm64:
       name:  null
