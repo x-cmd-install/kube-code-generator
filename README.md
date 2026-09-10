@@ -12,6 +12,28 @@ Kubernetes code generator docker image
 x install kube-code-generator
 ```
 
+## Code insight
+
+Total: **2,226** lines of code across **63** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 1,847 | 443 | 426 | 46 |
+| Sh | 119 | 36 | 48 | 12 |
+| Yaml | 104 | 0 | 0 | 1 |
+| Makefile | 87 | 0 | 26 | 2 |
+| Dockerfile | 69 | 8 | 20 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.4 / 10**
+
+Lowest-scoring checks:
+
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/20 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/slok/kube-code-generator>
@@ -35,30 +57,11 @@ x install kube-code-generator
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 1 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-03-14 | 1 | 1 | 0 | 0 | 0 | 1 |
 | 360d | 2025-09-15 | 2 | 2 | 0 | 0 | 0 | 3 |
-
-## Code size
-
-Total: **2,226** lines of code across **63** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 1,847 | 443 | 426 | 46 |
-| Sh | 119 | 36 | 48 | 12 |
-| Yaml | 104 | 0 | 0 | 1 |
-| Makefile | 87 | 0 | 26 | 2 |
-| Dockerfile | 69 | 8 | 20 | 2 |
-
-## OpenSSF Scorecard
-
-Overall score: **2.4 / 10**
-
-Lowest-scoring checks:
-
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Code-Review** (0/10) — Found 1/20 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+| last720d | 2024-09-20 | 8 | 12 | 0 | 0 | 1 | 33 |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for kube-code-generator lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:04:34Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:56:16Z._
