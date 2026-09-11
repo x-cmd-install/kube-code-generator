@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.10.0"
   latestRelease: "v0.10.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:20:15Z
+  collectedAt: 2026-09-11T19:41:40Z
 timeline:
   created: 2018-02-10
   lastCommit: 2026-06-21
@@ -86,7 +86,7 @@ total:
   commit: 129
 ---
 path: /home/runner/.x-repo/github.com/slok/kube-code-generator
-collectedAt: 2026-09-11T05:20:17Z
+collectedAt: 2026-09-11T19:41:41Z
 loc:
   Go:
     code: 1847
