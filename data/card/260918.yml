@@ -221,4 +221,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 21 are checked with a SAST tool'
 ---
-{"id":342511474,"author":{"login":"slok","id":128204,"node_id":"MDQ6VXNlcjEyODIwNA==","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOBzamcc4Uak9y","tag_name":"v0.10.0","target_commitish":"main","name":"v0.10.0","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-06-21T11:33:23Z","updated_at":"2026-06-21T11:37:18Z","published_at":"2026-06-21T11:37:18Z","assets":[],"body":"## What's Changed\r\n* Upgrade to Kubernetes v1.36 support by @slok-bot in https://github.com/slok/kube-code-generator/pull/50\r\n\r\n## New Contributors\r\n* @slok-bot made their first contribution in https://github.com/slok/kube-code-generator/pull/50\r\n\r\n**Full Changelog**: https://github.com/slok/kube-code-generator/compare/v0.9.0...v0.10.0","mentions_count":1}
