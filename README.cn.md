@@ -4,7 +4,7 @@
 
 Kubernetes code generator docker image
 
-![kube-code-generator](https://repo.x-cmd.io/kube-code-generator.svg?lang=zh)
+[![x-cmd/install — kube-code-generator Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kube-code-generator.svg?lang=zh)](https://x-cmd.com/install/kube-code-generator)
 
 ## 安装
 
@@ -46,7 +46,7 @@ x install kube-code-generator
 
 ## 流行度
 
-- **Star**: 96 · **Fork**: 21 · **开放 issue**: 3 · **贡献者**: 2
+- **Star**: 96 · **Fork**: 20 · **开放 issue**: 3 · **贡献者**: 2
 
 ## 累计统计
 
@@ -56,12 +56,12 @@ x install kube-code-generator
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 1 | 1 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 1 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-23 | 2 | 2 | 0 | 0 | 0 | 3 |
-| last720d | 2024-09-28 | 8 | 12 | 0 | 0 | 1 | 33 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 1 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-25 | 2 | 2 | 0 | 0 | 0 | 3 |
+| last720d | 2024-09-30 | 8 | 12 | 0 | 0 | 1 | 33 |
 
 ## 改进这些数据
 
@@ -72,4 +72,4 @@ kube-code-generator 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:19:29Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:41:55Z._
