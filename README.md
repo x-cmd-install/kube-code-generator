@@ -4,7 +4,7 @@
 
 Kubernetes code generator docker image
 
-[![x-cmd/install — kube-code-generator Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kube-code-generator.svg)](https://x-cmd.com/install/kube-code-generator)
+[![x-cmd/install — kube-code-generator Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kube-code-generator.svg)](https://x-cmd.com/install/kube-code-generator)
 
 ## Install
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 1 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-27 | 2 | 2 | 0 | 0 | 0 | 3 |
-| last720d | 2024-10-02 | 8 | 12 | 0 | 0 | 1 | 32 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 1 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-28 | 2 | 2 | 0 | 0 | 0 | 3 |
+| last720d | 2024-10-03 | 8 | 12 | 0 | 0 | 1 | 32 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for kube-code-generator lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:39:08Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:27:51Z._
