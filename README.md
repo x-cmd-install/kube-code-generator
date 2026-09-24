@@ -31,8 +31,8 @@ Overall score: **2.4 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 1/20 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-27 | 1 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-28 | 2 | 2 | 0 | 0 | 0 | 3 |
-| last720d | 2024-10-03 | 8 | 12 | 0 | 0 | 1 | 32 |
+| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-26 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-28 | 1 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-29 | 2 | 2 | 0 | 0 | 0 | 3 |
+| last720d | 2024-10-04 | 8 | 12 | 0 | 0 | 1 | 32 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for kube-code-generator lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:27:51Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:05:25Z._
